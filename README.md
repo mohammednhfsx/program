@@ -1,7 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">محمدالمهدي-علي-عبدالرضا-ملف-6100a7244
+<p align="le
 <a href="https://instagram.com/jui_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jui_xd" height="30" width="40" /></a>
 </p>
 
